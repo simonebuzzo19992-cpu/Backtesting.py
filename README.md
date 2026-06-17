@@ -177,7 +177,7 @@ Backtesting.py is a powerful Python library I want to explore and study. Here my
   ---
   Author
 
-  Simone Buzzo — Data Scientist
+  Simone Buzzo
   LinkedIn · GitHub
 
   ---
